@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>QBOSubscribe</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>QBOSubscribe</value>
+    </caseValues>
+    <fields>
+        <label><!-- ActiveStatus --></label>
+        <name>ActiveStatus__c</name>
+    </fields>
+    <fields>
+        <label><!-- Countries --></label>
+        <name>Countries__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductFamilies --></label>
+        <name>ProductFamilies__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
